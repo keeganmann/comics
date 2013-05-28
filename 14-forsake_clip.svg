@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="14-forsake_clip.svg"
-   inkscape:export-filename="/Users/keegan/Desktop/comics/forsake_clip.png"
-   inkscape:export-xdpi="59.992382"
-   inkscape:export-ydpi="59.992382">
+   inkscape:export-filename="/Users/keegan/Desktop/comics/14-forsake.png"
+   inkscape:export-xdpi="59.990002"
+   inkscape:export-ydpi="59.990002">
   <defs
      id="defs4">
     <linearGradient
@@ -357,8 +357,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.62574637"
-     inkscape:cx="328.12454"
-     inkscape:cy="872.56058"
+     inkscape:cx="193.03658"
+     inkscape:cy="711.16856"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -379,7 +379,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -388,6 +388,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1.5000215,246.78329)">
+    <rect
+       y="-245.27568"
+       x="0"
+       height="1309.8108"
+       width="744.98535"
+       id="rect3285"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1" />
     <image
        y="337.98795"
        x="-0.33436775"
