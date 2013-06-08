@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="badass.svg">
+   sodipodi:docname="badass.svg"
+   inkscape:export-filename="/Users/keegan/Desktop/comics/17-badass.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="668.98151"
-     inkscape:cy="121.88754"
+     inkscape:cx="333.17497"
+     inkscape:cy="236.89553"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -185,7 +188,7 @@
     <path
        id="path3819"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
-       d="m 386.66562,181.38134 0,-3.2613 12.71039,0 0,3.2613"
+       d="m 386.66562,146.97025 0,3.2613 12.71039,0 0,-3.2613"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <rect
@@ -233,7 +236,7 @@
        d="m 366.92773,144.37197 0,-46.088542 50.42074,0 2.48442,-6.41268 3.35537,12.544952 3.35537,-12.544952 3.35538,12.544952 3.35537,-12.544952 3.35537,12.544952 2.22933,-6.132272 61.53591,0 0,65.649592"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Sans Bold" />
     <g
-       transform="matrix(1.269799,0,0,1.269799,292.35009,-33.54422)"
+       transform="matrix(1.269799,0,0,-1.269799,292.35009,361.89581)"
        id="g3835"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold">
       <path
@@ -338,7 +341,7 @@
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
-       d="m 744.84337,181.38134 0,-3.2613 12.71039,0 0,3.2613"
+       d="m 744.84337,144.97025 0,3.2613 12.71039,0 0,-3.2613"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        id="path3871" />
     <rect
@@ -388,7 +391,7 @@
     <g
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        id="g3885"
-       transform="matrix(1.269799,0,0,1.269799,650.52784,-33.54422)">
+       transform="matrix(1.269799,0,0,-1.269799,650.52784,359.89581)">
       <path
          d="m 78.025948,147.44449 0,-3.7207 -3.75,0 0,-2.56836 3.75,0 0,-3.72071 2.5,0 0,3.72071 3.759765,0 0,2.56836 -3.759765,0 0,3.7207 -2.5,0"
          style="font-size:20px"
@@ -400,17 +403,6 @@
        d="m 829.41391,164.94317 54.04316,0"
        id="path3889"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 737.49003,180.09546 -29.29443,0 0,51.0127"
-       id="path3891"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path3893"
-       d="m 715.5464,221.77323 -15.72705,0 7.86352,16.3302 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        sodipodi:type="arc"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
@@ -547,5 +539,16 @@
          x="973.18811"
          y="324.5621"
          style="font-size:20px">-- Chris Buonocore</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 736.45514,180.09546 -29.29443,0 0,51.0127"
+       id="path4156"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4158"
+       d="m 714.51151,221.77323 -15.72705,0 7.86352,16.3302 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>
